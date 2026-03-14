@@ -25,7 +25,7 @@ class_names = [
     'dog', 'frog', 'horse', 'ship', 'truck'
 ]
 
-num_classes = 10
+num_classes = 10 
 
 # Plot one random image per class
 fig = plt.figure(figsize=(10, 4))
